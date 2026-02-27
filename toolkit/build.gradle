@@ -49,7 +49,7 @@ sourceCompatibility = 1.8
 group = 'com.google.api'
 project.version = file('version.txt').text.trim()
 
-def protoVersion = '3.4.0'
+def protoVersion = '4.34.0'
 
 // Dependencies
 // ------------
